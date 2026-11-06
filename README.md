@@ -85,7 +85,7 @@ Exact clicks are in [SETUP.md](SETUP.md).
 ## Run it
 
 ```bash
-git clone <repo URL> looseword-ops-room
+git clone https://github.com/V3sr/looseword-ops-room.git
 cd looseword-ops-room
 python -m unittest discover -s tests -v
 python sim/intake_sim.py
