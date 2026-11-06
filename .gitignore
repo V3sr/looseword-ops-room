@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+.switch/
+.env
+.claude/settings.local.json
+CLAUDE.local.md
+agents/lw-triage/records/

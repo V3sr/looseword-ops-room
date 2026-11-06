@@ -1,0 +1,8 @@
+{
+  "note": "Synthetic targets only. All bind to 127.0.0.1. None of these are Looseword production services.",
+  "targets": [
+    {"name": "ubc-test", "label": "UBC test intake (synthetic)", "url": "http://127.0.0.1:8701/intake"},
+    {"name": "vanier-test", "label": "Place Vanier test intake (synthetic)", "url": "http://127.0.0.1:8702/intake"},
+    {"name": "orchard-test", "label": "Orchard test intake (synthetic)", "url": "http://127.0.0.1:8703/intake"}
+  ]
+}
